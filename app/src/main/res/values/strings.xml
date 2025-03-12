@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IP TestTask</string>
+    <string name="mainActivity_title">Список товаров</string>
+    <string name="searchView_icon_search">Search</string>
+    <string name="searchView_icon_clear">Clear</string>
+    <string name="searchView_label">Поиск товаров</string>
+    <string name="itemUi_icon_edit">Edit</string>
+    <string name="itemUi_icon_delete">Delete</string>
+    <string name="itemUi_text_stock">На складе</string>
+    <string name="itemUi_text_outOfStock">Нет в наличии</string>
+    <string name="itemUi_text_date">Дата добавления</string>
+    <string name="itemUi_text_dateFormat">dd.MM.yyyy</string>
+    <string name="editDialog_icon_settings">Settings</string>
+    <string name="editDialog_icon_minus">Minus</string>
+    <string name="editDialog_icon_plus">Plus</string>
+    <string name="editDialog_title">Количество товара</string>
+    <string name="editDialog_button_confirm">Принять</string>
+    <string name="editDialog_button_dismiss">Отмена</string>
+    <string name="deleteDialog_icon_warning">Warning</string>
+    <string name="deleteDialog_title">Удаление товара</string>
+    <string name="deleteDialog_text">Вы действительно хотите удалить выбранный товар?</string>
+    <string name="deleteDialog_button_confirm">Да</string>
+    <string name="deleteDialog_button_dismiss">Нет</string>
+</resources>
